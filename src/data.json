@@ -1,0 +1,435 @@
+{
+    "French": [
+        {
+            "Name": "Quiche Lorraine Pizza",
+            "Description": "Pizza inspired by the classic French quiche with bacon and cheese.",
+            "OriginalPrice": 18.99,
+            "DiscountedPrice": 15.99,
+            "DiscountPercentage": 16
+        },
+        {
+            "Name": "Ratatouille Delight",
+            "Description": "Pizza with ratatouille-inspired toppings, including eggplant and zucchini.",
+            "OriginalPrice": 14.99,
+            "DiscountedPrice": 11.99,
+            "DiscountPercentage": 20
+        },
+        {
+            "Name": "Croque-Monsieur Feast",
+            "Description": "Pizza with ham, Gruyère cheese, and a creamy béchamel sauce.",
+            "OriginalPrice": 13.99,
+            "DiscountedPrice": 10.99,
+            "DiscountPercentage": 21
+        },
+        {
+            "Name": "Brie and Caramelized Onion Bliss",
+            "Description": "Pizza with brie cheese, caramelized onions, and a touch of honey.",
+            "OriginalPrice": 16.99,
+            "DiscountedPrice": 13.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Provencal Vegetable Fantasy",
+            "Description": "Pizza with a mix of Provencal-style vegetables and herbs.",
+            "OriginalPrice": 17.99,
+            "DiscountedPrice": 14.99,
+            "DiscountPercentage": 17
+        },
+        {
+            "Name": "French Onion Soup Pizza",
+            "Description": "Pizza with the flavors of French onion soup, including caramelized onions and Gruyère.",
+            "OriginalPrice": 16.99,
+            "DiscountedPrice": 13.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Salade Niçoise Supreme",
+            "Description": "Pizza with toppings inspired by Salade Niçoise, including tuna, olives, and tomatoes.",
+            "OriginalPrice": 18.99,
+            "DiscountedPrice": 15.99,
+            "DiscountPercentage": 16
+        },
+        {
+            "Name": "Crepes and Mushroom Magic",
+            "Description": "Pizza with crepes, mushrooms, and a creamy white wine sauce.",
+            "OriginalPrice": 14.99,
+            "DiscountedPrice": 11.99,
+            "DiscountPercentage": 20
+        },
+        {
+            "Name": "Camembert and Pear Delight",
+            "Description": "Pizza with camembert cheese, fresh pears, and a balsamic glaze.",
+            "OriginalPrice": 15.99,
+            "DiscountedPrice": 12.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Duck Confit Extravaganza",
+            "Description": "Pizza featuring duck confit, caramelized onions, and a red wine reduction.",
+            "OriginalPrice": 13.99,
+            "DiscountedPrice": 10.99,
+            "DiscountPercentage": 21
+        }
+    ],
+    "American": [
+        {
+            "Name": "BBQ Bacon Cheeseburger Pizza",
+            "Description": "Pizza loaded with BBQ sauce, bacon, ground beef, and cheese.",
+            "OriginalPrice": 16.99,
+            "DiscountedPrice": 13.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Classic Pepperoni Feast",
+            "Description": "Traditional pizza with a generous serving of pepperoni slices.",
+            "OriginalPrice": 14.99,
+            "DiscountedPrice": 11.99,
+            "DiscountPercentage": 20
+        },
+        {
+            "Name": "Buffalo Chicken Ranch",
+            "Description": "Pizza with buffalo chicken, ranch dressing, and a hint of heat.",
+            "OriginalPrice": 13.99,
+            "DiscountedPrice": 10.99,
+            "DiscountPercentage": 21
+        },
+        {
+            "Name": "Hawaiian Luau Delight",
+            "Description": "Pizza with ham, pineapple, and a tropical BBQ sauce.",
+            "OriginalPrice": 17.99,
+            "DiscountedPrice": 14.99,
+            "DiscountPercentage": 17
+        },
+        {
+            "Name": "Supreme Meat Lover's",
+            "Description": "Pizza with a variety of meats, including sausage, pepperoni, and bacon.",
+            "OriginalPrice": 18.99,
+            "DiscountedPrice": 15.99,
+            "DiscountPercentage": 16
+        },
+        {
+            "Name": "BBQ Chicken and Bacon",
+            "Description": "Pizza with BBQ chicken, bacon, red onions, and cheese.",
+            "OriginalPrice": 15.99,
+            "DiscountedPrice": 12.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Veggie Explosion",
+            "Description": "Pizza loaded with a colorful array of fresh vegetables and olives.",
+            "OriginalPrice": 16.99,
+            "DiscountedPrice": 13.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Classic Margherita",
+            "Description": "Traditional Margherita pizza with tomatoes, mozzarella, and basil.",
+            "OriginalPrice": 14.99,
+            "DiscountedPrice": 11.99,
+            "DiscountPercentage": 20
+        },
+        {
+            "Name": "Bacon and Mushroom Bliss",
+            "Description": "Pizza with crispy bacon, mushrooms, and a garlic white sauce.",
+            "OriginalPrice": 13.99,
+            "DiscountedPrice": 10.99,
+            "DiscountPercentage": 21
+        },
+        {
+            "Name": "BBQ Pulled Pork Extravaganza",
+            "Description": "Pizza featuring BBQ pulled pork, caramelized onions, and coleslaw.",
+            "OriginalPrice": 15.99,
+            "DiscountedPrice": 12.99,
+            "DiscountPercentage": 18
+        }
+    ],
+    "Chinese": [
+        {
+            "Name": "Sweet and Sour Chicken Pizza",
+            "Description": "Pizza featuring sweet and sour chicken, pineapple, and bell peppers.",
+            "OriginalPrice": 13.99,
+            "DiscountedPrice": 10.99,
+            "DiscountPercentage": 21
+        },
+        {
+            "Name": "Kung Pao Shrimp Delight",
+            "Description": "Pizza with Kung Pao shrimp, peanuts, and a spicy soy sauce.",
+            "OriginalPrice": 14.99,
+            "DiscountedPrice": 11.99,
+            "DiscountPercentage": 20
+        },
+        {
+            "Name": "General Tso's Chicken Supreme",
+            "Description": "Pizza with General Tso's chicken, broccoli, and a tangy sauce.",
+            "OriginalPrice": 15.99,
+            "DiscountedPrice": 12.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Mongolian Beef Feast",
+            "Description": "Pizza topped with savory Mongolian beef, scallions, and sesame seeds.",
+            "OriginalPrice": 16.99,
+            "DiscountedPrice": 13.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Szechuan Veggie Delight",
+            "Description": "Pizza with a mix of Szechuan-spiced vegetables and tofu.",
+            "OriginalPrice": 17.99,
+            "DiscountedPrice": 14.99,
+            "DiscountPercentage": 17
+        },
+        {
+            "Name": "Dim Sum Special",
+            "Description": "Pizza inspired by dim sum with a variety of dumplings and dipping sauce.",
+            "OriginalPrice": 16.99,
+            "DiscountedPrice": 13.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Orange Chicken Explosion",
+            "Description": "Pizza with crispy orange chicken, green onions, and sesame glaze.",
+            "OriginalPrice": 18.99,
+            "DiscountedPrice": 15.99,
+            "DiscountPercentage": 16
+        },
+        {
+            "Name": "Egg Roll Extravaganza",
+            "Description": "Pizza with egg roll-inspired toppings, including shredded cabbage and carrots.",
+            "OriginalPrice": 14.99,
+            "DiscountedPrice": 11.99,
+            "DiscountPercentage": 20
+        },
+        {
+            "Name": "Peking Duck Fantasy",
+            "Description": "Pizza with Peking duck slices, hoisin sauce, and green onions.",
+            "OriginalPrice": 15.99,
+            "DiscountedPrice": 12.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Broccoli and Beef Fusion",
+            "Description": "Pizza with tender beef, broccoli, and a savory brown sauce.",
+            "OriginalPrice": 13.99,
+            "DiscountedPrice": 10.99,
+            "DiscountPercentage": 21
+        }
+    ],
+    "Indian": [
+        {
+            "Name": "Butter Chicken Pizza",
+            "Description": "Pizza with creamy butter chicken, onions, and cilantro.",
+            "OriginalPrice": 15.99,
+            "DiscountedPrice": 12.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Paneer Tikka Delight",
+            "Description": "Pizza topped with marinated paneer, bell peppers, and red onions.",
+            "OriginalPrice": 14.99,
+            "DiscountedPrice": 11.99,
+            "DiscountPercentage": 20
+        },
+        {
+            "Name": "Masala Veggie Feast",
+            "Description": "Pizza with a medley of spiced vegetables, including potatoes and peas.",
+            "OriginalPrice": 13.99,
+            "DiscountedPrice": 10.99,
+            "DiscountPercentage": 21
+        },
+        {
+            "Name": "Tandoori Chicken Supreme",
+            "Description": "Pizza with tandoori chicken, onions, and a drizzle of mint chutney.",
+            "OriginalPrice": 16.99,
+            "DiscountedPrice": 13.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Curry Lovers' Special",
+            "Description": "Pizza with a flavorful curry sauce, chicken, and a mix of spices.",
+            "OriginalPrice": 17.99,
+            "DiscountedPrice": 14.99,
+            "DiscountPercentage": 17
+        },
+        {
+            "Name": "Spicy Lamb Kebab",
+            "Description": "Pizza topped with spicy lamb kebabs, red onions, and mint yogurt sauce.",
+            "OriginalPrice": 16.99,
+            "DiscountedPrice": 13.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Chana Masala Supreme",
+            "Description": "Pizza featuring chana masala, tomatoes, and cilantro.",
+            "OriginalPrice": 18.99,
+            "DiscountedPrice": 15.99,
+            "DiscountPercentage": 16
+        },
+        {
+            "Name": "Biryani Explosion",
+            "Description": "Pizza inspired by biryani with fragrant rice, chicken, and aromatic spices.",
+            "OriginalPrice": 14.99,
+            "DiscountedPrice": 11.99,
+            "DiscountPercentage": 20
+        },
+        {
+            "Name": "Palak Paneer Paradise",
+            "Description": "Pizza with a spinach and paneer topping, seasoned with Indian spices.",
+            "OriginalPrice": 15.99,
+            "DiscountedPrice": 12.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Mango Chicken Delight",
+            "Description": "Pizza with mango-infused chicken, bell peppers, and a hint of sweetness.",
+            "OriginalPrice": 13.99,
+            "DiscountedPrice": 10.99,
+            "DiscountPercentage": 21
+        }
+    ],
+    "Mexican": [
+        {
+            "Name": "Taco Pizza",
+            "Description": "Pizza topped with seasoned ground beef, salsa, and cheese.",
+            "OriginalPrice": 14.99,
+            "DiscountedPrice": 11.99,
+            "DiscountPercentage": 20
+        },
+        {
+            "Name": "Guacamole Delight",
+            "Description": "Pizza featuring guacamole, black beans, corn, and cilantro.",
+            "OriginalPrice": 15.99,
+            "DiscountedPrice": 12.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Spicy Chicken Fiesta",
+            "Description": "Pizza with spicy chicken, jalapeños, and a blend of Mexican cheeses.",
+            "OriginalPrice": 16.99,
+            "DiscountedPrice": 13.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Chorizo Supreme",
+            "Description": "Pizza loaded with chorizo, onions, bell peppers, and olives.",
+            "OriginalPrice": 17.99,
+            "DiscountedPrice": 14.99,
+            "DiscountPercentage": 17
+        },
+        {
+            "Name": "Nachos Lover's Pizza",
+            "Description": "Pizza inspired by nachos with ground beef, cheese, tomatoes, and jalapeños.",
+            "OriginalPrice": 16.99,
+            "DiscountedPrice": 13.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Enchilada Supreme",
+            "Description": "Pizza featuring the flavors of enchiladas with shredded chicken and red sauce.",
+            "OriginalPrice": 18.99,
+            "DiscountedPrice": 15.99,
+            "DiscountPercentage": 16
+        },
+        {
+            "Name": "Quesadilla Paradise",
+            "Description": "Pizza with quesadilla-inspired toppings like cheese, chicken, and veggies.",
+            "OriginalPrice": 13.99,
+            "DiscountedPrice": 10.99,
+            "DiscountPercentage": 21
+        },
+        {
+            "Name": "Salsa Verde Delight",
+            "Description": "Pizza with a tangy salsa verde base, grilled chicken, and avocado.",
+            "OriginalPrice": 14.99,
+            "DiscountedPrice": 11.99,
+            "DiscountPercentage": 20
+        },
+        {
+            "Name": "Burrito Supreme",
+            "Description": "Pizza with all the classic burrito fillings like beans, rice, and beef.",
+            "OriginalPrice": 15.99,
+            "DiscountedPrice": 12.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Fajita Fantasy",
+            "Description": "Pizza inspired by fajitas with grilled steak, bell peppers, and onions.",
+            "OriginalPrice": 13.99,
+            "DiscountedPrice": 10.99,
+            "DiscountPercentage": 21
+        }
+    ],
+    "Italian": [
+        {
+            "Name": "Laziz Khas Pizza",
+            "Description": "Italian pizza with ham, mushrooms, artichokes, and olives.",
+            "OriginalPrice": 15.99,
+            "DiscountedPrice": 12.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Margherita",
+            "Description": "Classic pizza with tomato, mozzarella, and basil.",
+            "OriginalPrice": 12.99,
+            "DiscountedPrice": 9.99,
+            "DiscountPercentage": 23
+        },
+        {
+            "Name": "Pepperoni",
+            "Description": "Traditional pizza with pepperoni slices and melted cheese.",
+            "OriginalPrice": 14.99,
+            "DiscountedPrice": 11.99,
+            "DiscountPercentage": 20
+        },
+        {
+            "Name": "Vegetarian",
+            "Description": "Pizza loaded with fresh vegetables like bell peppers, onions, and olives.",
+            "OriginalPrice": 13.99,
+            "DiscountedPrice": 10.99,
+            "DiscountPercentage": 21
+        },
+        
+        {
+            "Name": "Quattro Formaggi",
+            "Description": "Four-cheese pizza with a blend of mozzarella, gorgonzola, parmesan, and provolone.",
+            "OriginalPrice": 16.99,
+            "DiscountedPrice": 13.99,
+            "DiscountPercentage": 18
+        },
+        {
+            "Name": "Seafood Delight",
+            "Description": "Pizza topped with a mix of fresh seafood like shrimp, mussels, and squid.",
+            "OriginalPrice": 18.99,
+            "DiscountedPrice": 15.99,
+            "DiscountPercentage": 16
+        },
+        {
+            "Name": "Pesto Chicken",
+            "Description": "Pizza with grilled chicken and a flavorful pesto sauce.",
+            "OriginalPrice": 17.99,
+            "DiscountedPrice": 14.99,
+            "DiscountPercentage": 17
+        },
+        {
+            "Name": "Spinach and Feta",
+            "Description": "Healthy pizza with spinach, feta cheese, and a garlic-infused olive oil base.",
+            "OriginalPrice": 14.99,
+            "DiscountedPrice": 11.99,
+            "DiscountPercentage": 20
+        },
+        {
+            "Name": "Sausage and Onion",
+            "Description": "Pizza featuring Italian sausage and caramelized onions.",
+            "OriginalPrice": 13.99,
+            "DiscountedPrice": 10.99,
+            "DiscountPercentage": 21
+        },
+        {
+            "Name": "Mushroom Lovers",
+            "Description": "Pizza loaded with various types of mushrooms and melted cheese.",
+            "OriginalPrice": 15.99,
+            "DiscountedPrice": 12.99,
+            "DiscountPercentage": 18
+        }
+    ]
+}
